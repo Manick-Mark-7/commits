@@ -1,7 +1,7 @@
 package leetcode.binarySearch.daily_challenge;
 
 
-
+//Find whether given two strings are anagrams or not
 public class Valid_Anagram_Dec_16 {
     public static void main(String[] args) {
         String s = "anagram";
