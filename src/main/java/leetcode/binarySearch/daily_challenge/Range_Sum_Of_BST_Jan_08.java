@@ -2,7 +2,8 @@ package src.main.java.leetcode.binarySearch.daily_challenge;
 
 public class Range_Sum_Of_BST_Jan_08 {
 
-    public int rangeSumBST(TreeNode root, int low, int high) {
+    public int rangeSumBST(s
+                                   TreeNode root, int low, int high) {
         if (root == null) {
             return 0;
         }
